@@ -1,0 +1,23 @@
+.App {
+	text-align: center;
+}
+
+.question {
+	font-size: 1em;
+}
+
+.btnAnswer {
+	width: 200px;
+	padding: 10px;
+	margin: 5px;
+	color: white;
+	background-color: rgb(70, 73, 70);
+	border: 0px;
+	border-radius: 5px;
+	font-size: 1em;
+}
+
+.userGreeting {
+	font-size: 1em;
+	color: rgb(192, 28, 28);
+}
